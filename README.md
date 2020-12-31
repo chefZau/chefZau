@@ -21,3 +21,7 @@ I'm currently doing a data analyst internship [@LBM Partner Services](https://lb
 ### This week I pent my time on
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=chefZau&hide_title=true&hide_border=true&count_private=true&langs_count=5" alt="chefZau's github stats" />
+
+### Most Used Languages
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chefZau&layout=compact&hide_title=true&hide_border=true&count_private=true&langs_count=5" alt="chefZau's github stats" />
