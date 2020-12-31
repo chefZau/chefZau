@@ -17,3 +17,7 @@ Learn more about me on my website: http://www.lucazhou.ca/
 ### what I'm working on
 
 I'm currently doing a data analyst internship [@LBM Partner Services](https://lbmpartnerservices.com/), working on a mix of data wrangling, building dashboard, and automation! In my spare time, I'm polishing up [ecommerce_web](https://github.com/chefZau/ecommerce_web) and a host of other side-projects that may or may not see the light of day :)
+
+### 📊 This week I pent my time on
+
+![chefZau stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=chefZau&hide_title=true&hide_border=true&langs_count=5)
