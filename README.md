@@ -8,9 +8,9 @@ Learn more about me on my website: http://www.lucazhou.ca/
 
 ```json
 {
-  "name" : "Luca Zhou",
-  "student" : true,
-  "goal" : "building solutions to the world's problems",
+  "name": "Luca Zhou",
+  "student": true,
+  "goal": "building solutions to the world's problems"
 }
 ```
 
@@ -20,4 +20,6 @@ I'm currently doing a data analyst internship [@LBM Partner Services](https://lb
 
 ### This week I pent my time on
 
-[![chefZau's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chefZau&hide_title=true&hide_border=true&count_private=true&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=chefZau&hide_title=true&hide_border=true&count_private=true&langs_count=5" alt="chefZau's github stats" />
+</a>
