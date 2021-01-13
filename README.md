@@ -26,4 +26,4 @@ I'm currently doing a data analyst internship [@LBM Partner Services](https://lb
 
 **this week I spent my time on**
 
-![chefZau stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=chefZau&hide_title=true&hide_border=true&langs_count=5&layout=compact)
+![chefZau stats](https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=chefZau&cache_seconds=1800&layout=compact&hide_title=true&hide_border=true)
