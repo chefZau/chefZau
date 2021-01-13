@@ -20,11 +20,6 @@ I'm currently doing a data analyst internship [@LBM Partner Services](https://lb
 
 ---
 
-**most used languages**
+![chefZau langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefZau&layout=compact&hide_border=true&count_private=true&langs_count=5)
 
-![chefZau langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chefZau&layout=compact&hide_title=true&hide_border=true&count_private=true&langs_count=5)
-
-
-**this week I spent my time on**
-
-![chefZau stats](https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=chefZau&cache_seconds=1800&layout=compact&hide_title=true&hide_border=true)
+![chefZau stats](https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=chefZau&cache_seconds=1800&layout=compact&hide_border=true)
