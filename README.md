@@ -18,6 +18,7 @@ Learn more about me on my website: http://www.lucazhou.ca/
 
 I'm currently doing a data analyst internship [@LBM Partner Services](https://lbmpartnerservices.com/), working on a mix of data wrangling, building dashboard, and automation! In my spare time, I'm polishing up [ecommerce_web](https://github.com/chefZau/ecommerce_web) and a host of other side-projects that may or may not see the light of day :)
 
+---
 
 **most used languages**
 
