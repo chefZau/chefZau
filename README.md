@@ -21,6 +21,6 @@ I'm currently doing a data analyst internship [@LBM Partner Services](https://lb
 ---
 
 <div>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chefZau&layout=compact&hide_border=true&count_private=true&langs_count=5" />
-    <img alt="Wakatime stat" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=chefZau&cache_seconds=1800&layout=compact&hide_border=true" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chefZau&layout=compact&hide_border=true&count_private=true&langs_count=5&theme=graywhite" />
+    <img alt="Wakatime stat" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=chefZau&cache_seconds=1800&layout=compact&hide_border=true&theme=graywhite" />
 </div>
