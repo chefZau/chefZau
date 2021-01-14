@@ -2,7 +2,6 @@
 
 Welcome to my little corner of the internet! I'm a passionate software developer interested in machine learning, algorithmic trading, and full-stack web development &mdash; anything that can make tech work better for everyone. Currently, I'm based in London, ON, and studying Computer Science @uwo.
 
-You can find me hitting the gym in my spare time, taking pictures with my Sony A6300, or practicing Chinese cuisine! I recently started a Study With Me zoom live streaming on which I plan to encourage people to keep on learning new tech during the pandemic.
 
 ```json
 {
@@ -11,6 +10,8 @@ You can find me hitting the gym in my spare time, taking pictures with my Sony A
   "goal": "building solutions to the world's problems"
 }
 ```
+
+You can find me hitting the gym in my spare time, taking pictures with my Sony A6300, or practicing Chinese cuisine! I recently started a Study With Me zoom live streaming on which I plan to encourage people to keep on learning new tech during the pandemic.
 
 ### Connect with me:
 
@@ -24,13 +25,13 @@ You can find me hitting the gym in my spare time, taking pictures with my Sony A
 [instagram]: https://www.instagram.com/lucazhou_/
 [linkedin]: https://www.linkedin.com/in/lucazhou/
 
+---
+
 ### what I'm working on
 
 I'm currently doing a data analyst internship [@LBM Partner Services](https://lbmpartnerservices.com/), working on a mix of data wrangling, building dashboard, and automation! In my spare time, I'm polishing up [ecommerce_web](https://github.com/chefZau/ecommerce_web) and a host of other side-projects that may or may not see the light of day :)
 
-
 <div>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chefZau&layout=compact&hide_border=true&count_private=true&langs_count=5&theme=graywhite" />
     <img alt="Wakatime stat" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=chefZau&cache_seconds=1800&layout=compact&hide_border=true&theme=graywhite" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chefZau&layout=compact&hide_border=true&count_private=true&langs_count=5&theme=graywhite" />
 </div>
-
