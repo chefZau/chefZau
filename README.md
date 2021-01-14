@@ -25,6 +25,8 @@ You can find me hitting the gym in my spare time, taking pictures with my Sony A
 [instagram]: https://www.instagram.com/lucazhou_/
 [linkedin]: https://www.linkedin.com/in/lucazhou/
 
+<br/>
+
 ---
 
 ### what I'm working on
