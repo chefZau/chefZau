@@ -37,3 +37,6 @@ I'm currently doing a data analyst internship [@LBM Partner Services](https://lb
     <img alt="Wakatime stat" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=chefZau&layout=compact&hide_border=true&theme=graywhite" />
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chefZau&layout=compact&hide_border=true&count_private=true&langs_count=5&theme=graywhite" />
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
