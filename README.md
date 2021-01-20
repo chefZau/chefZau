@@ -33,8 +33,6 @@ You can find me hitting the gym in my spare time, taking pictures with my Sony A
 
 I'm currently doing a data analyst internship [@LBM Partner Services](https://lbmpartnerservices.com/), working on a mix of data wrangling, building dashboard, and automation! In my spare time, I'm polishing up [ecommerce_web](https://github.com/chefZau/ecommerce_web) and a host of other side-projects that may or may not see the light of day :)
 
-#### Weekly development breakdown
-
 <!--START_SECTION:waka-->
 ```text
 Week: 12 January, 2021 - 19 January, 2021
