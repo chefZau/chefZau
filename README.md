@@ -33,11 +33,6 @@ You can find me hitting the gym in my spare time, taking pictures with my Sony A
 
 I'm currently doing a data analyst internship [@LBM Partner Services](https://lbmpartnerservices.com/), working on a mix of data wrangling, building dashboard, and automation! In my spare time, I'm polishing up [ecommerce_web](https://github.com/chefZau/ecommerce_web) and a host of other side-projects that may or may not see the light of day :)
 
-<div>
-    <img alt="Wakatime stat" src="https://github-readme-stats.nthnchu.vercel.app/api/wakatime?username=chefZau&layout=compact&hide_border=true&theme=graywhite" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chefZau&layout=compact&hide_border=true&count_private=true&langs_count=5&theme=graywhite" />
-</div>
-
 <!--START_SECTION:waka-->
 ```text
 SQL        3 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.00 % 
