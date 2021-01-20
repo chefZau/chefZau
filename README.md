@@ -35,7 +35,6 @@ I'm currently doing a data analyst internship [@LBM Partner Services](https://lb
 
 <!--START_SECTION:waka-->
 ```text
-Weekly development breakdown:
 SQL        3 hrs 26 mins   ███████▒░░░░░░░░░░░░░░░░░   29.00 % 
 Text       3 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.26 % 
 Python     2 hrs 58 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.17 % 
