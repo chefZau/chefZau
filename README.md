@@ -13,6 +13,20 @@ Welcome to my little corner of the internet! I'm a passionate software developer
 
 You can find me hitting the gym in my spare time, taking pictures with my Sony A6300, or practicing Chinese cuisine! I recently started a Study With Me zoom live streaming on which I plan to encourage people to keep on learning new tech during the pandemic.
 
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: http://www.lucazhou.ca/
+[twitter]: https://twitter.com/LucaZhou9
+[instagram]: https://www.instagram.com/lucazhou_/
+[linkedin]: https://www.linkedin.com/in/lucazhou/
+
+<br/>
+
 ---
 
 ### What I'm working on
@@ -30,17 +44,3 @@ Markdown   1 hr 4 mins     ██▒░░░░░░░░░░░░░░�
 HTML       56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 ```
 <!--END_SECTION:waka-->
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[website]: http://www.lucazhou.ca/
-[twitter]: https://twitter.com/LucaZhou9
-[instagram]: https://www.instagram.com/lucazhou_/
-[linkedin]: https://www.linkedin.com/in/lucazhou/
-
-<br/>
