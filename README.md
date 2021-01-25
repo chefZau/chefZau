@@ -1,5 +1,7 @@
 ### :wave: Hello there! i'm Luca
 
+(he/him)
+
 Welcome to my little corner of the internet! I'm a passionate software developer interested in machine learning, algorithmic trading, and full-stack web development &mdash; anything that can make tech work better for everyone. Currently, I'm based in London, ON, and studying Computer Science [@uwo](https://www.uwo.ca/).
 
 
