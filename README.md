@@ -1,4 +1,4 @@
-### :wave: Hello there! i'm Luca
+### :wave: hey there! i'm Luca
 
 (he/him)
 
