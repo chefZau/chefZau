@@ -37,7 +37,7 @@ I'm currently doing a data analyst internship [@LBM Partner Services](https://lb
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 January, 2021 - 24 January, 2021
+Week: 18 January, 2021 - 25 January, 2021
 
 Java       11 hrs 18 mins  ████████░░░░░░░░░░░░░░░░░   31.44 % 
 Python     11 hrs          ███████▓░░░░░░░░░░░░░░░░░   30.62 % 
