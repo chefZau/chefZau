@@ -37,12 +37,12 @@ I'm currently doing a data analyst internship [@LBM Partner Services](https://lb
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 May, 2021 - 13 May, 2021
+Week: 07 May, 2021 - 14 May, 2021
 
-Python       7 hrs 42 mins   ████████████▒░░░░░░░░░░░░   49.79 % 
-SQL          4 hrs 22 mins   ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-Other        3 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.97 % 
-HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Python       9 hrs 38 mins   ██████████████▒░░░░░░░░░░   57.56 % 
+SQL          5 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   31.09 % 
+Other        1 hr 45 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+HTML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
