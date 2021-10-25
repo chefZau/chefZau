@@ -37,9 +37,9 @@ In the previous twelve months, I was doing a data analyst internship [@LBM Partn
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 October, 2021 - 23 October, 2021
+Week: 18 October, 2021 - 24 October, 2021
 
-Python     38 hrs 2 mins   ███████████████████████░░   92.28 % 
-Markdown   3 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Python     36 hrs 31 mins  ███████████████████████░░   91.98 % 
+Markdown   3 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 ```
 <!--END_SECTION:waka-->
