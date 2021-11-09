@@ -37,11 +37,12 @@ In the previous twelve months, I was doing a data analyst internship [@LBM Partn
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2021 - 07 November, 2021
+Week: 02 November, 2021 - 08 November, 2021
 
-Python   30 hrs 18 mins  ██████████████████████▓░░   90.24 % 
-SQL      1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Java     1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Git      26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Python   30 hrs 39 mins  █████████████████▓░░░░░░░   70.48 % 
+Java     10 hrs 29 mins  ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+SQL      1 hr 43 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Git      26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Other    10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 ```
 <!--END_SECTION:waka-->
