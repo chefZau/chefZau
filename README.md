@@ -33,7 +33,7 @@ You can find me hitting the gym in my spare time, taking pictures with my Sony A
 
 ### What I'm working on
 
-In the previous twelve months, I was doing a data analyst internship [@LBM Partner Services](https://lbmpartnerservices.com/), working on a mix of data wrangling, data visualization, and automation! In my spare time, I'm polishing up [BMO Mutual Fund Exploration](https://github.com/chefZau/Exploring-BMO-MFunds) and a host of other side-projects that may or may not see the light of day :)
+In the previous fifteen months, I worked as a data analyst [@LBM Partner Services](https://lbmpartnerservices.com/), working on a mix of data wrangling, data visualization, and automation! In my spare time, I'm polishing up [BMO Mutual Fund Exploration](https://github.com/chefZau/Exploring-BMO-MFunds) and a host of other side-projects that may or may not see the light of day :)
 
 <!--START_SECTION:waka-->
 ```text
