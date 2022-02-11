@@ -37,9 +37,8 @@ In the previous fifteen months, I worked as a data analyst [@LBM Partner Service
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
-Python   1 hr 21 mins    ████████████████████████▓   98.66 % 
-JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Python   5 hrs 32 mins   █████████████████████████   99.77 % 
 ```
 <!--END_SECTION:waka-->
