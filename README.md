@@ -36,13 +36,11 @@ You can find me hitting the gym in my spare time, taking pictures with my Sony A
 In the previous fifteen months, I worked as a data analyst [@LBM Partner Services](https://lbmpartnerservices.com/), working on a mix of data wrangling, data visualization, and automation! In my spare time, I'm polishing up [BMO Mutual Fund Exploration](https://github.com/chefZau/Exploring-BMO-MFunds) and a host of other side-projects that may or may not see the light of day :)
 
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-Other    18 hrs 21 mins  █████████████████░░░░░░░░   67.50 % 
-Python   8 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   30.92 % 
-SQL      22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-JSON     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Java     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Other    48 hrs 59 mins  █████████████████████████   99.63 %
 ```
+
 <!--END_SECTION:waka-->
