@@ -38,12 +38,13 @@ In the previous fifteen months, I worked as a data analyst [@LBM Partner Service
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2022 - To: 06 April 2022
+From: 31 March 2022 - To: 07 April 2022
 
-Python     28 mins         ████████████▓░░░░░░░░░░░░   50.37 %
-SQL        20 mins         █████████░░░░░░░░░░░░░░░░   36.23 %
-Markdown   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-Git        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Python     28 mins         █████████▒░░░░░░░░░░░░░░░   37.07 %
+SQL        20 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.67 %
+HTML       20 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
+Markdown   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+Git        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
