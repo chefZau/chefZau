@@ -2,7 +2,7 @@
 
 (he/him)
 
-Welcome to my little corner of the internet! I'm a passionate software developer interested in machine learning, algorithmic trading, and full-stack web development &mdash; anything that can make tech work better for everyone. Currently, I'm based in London, ON, and studying Computer Science [@uwo](https://www.uwo.ca/).
+Welcome to my little corner of the internet! I'm a passionate software developer interested in machine learning, algorithmic trading, and full-stack web development &mdash; anything that can make tech work better for everyone. Currently, I'm based in London, ON, and have already completed my honours degree in Computer Science [@uwo](https://www.uwo.ca/).
 
 
 ```json
@@ -33,7 +33,7 @@ You can find me hitting the gym in my spare time, taking pictures with my Sony A
 
 ### What I'm working on
 
-In the previous fifteen months, I worked as a data analyst [@LBM Partner Services](https://lbmpartnerservices.com/), working on a mix of data wrangling, data visualization, and automation! In my spare time, I'm polishing up [BMO Mutual Fund Exploration](https://github.com/chefZau/Exploring-BMO-MFunds) and a host of other side-projects that may or may not see the light of day :)
+Last year, I worked as a data analyst [@LBM Partner Services](https://lbmpartnerservices.com/), working on a mix of data wrangling, data visualization, and automation! In my spare time, I'm polishing up [BMO Mutual Fund Exploration](https://github.com/chefZau/Exploring-BMO-MFunds) and a host of other side-projects that may or may not see the light of day :)
 
 <!--START_SECTION:waka-->
 
