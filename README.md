@@ -9,7 +9,6 @@ Welcome to my little corner of the internet! I'm a passionate software developer
 {
   "name": "Luca Zhou",
   "student": true,
-  "goal": "building solutions to the world's problems"
 }
 ```
 
