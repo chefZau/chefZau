@@ -8,7 +8,7 @@ Welcome to my little corner of the internet! I'm a passionate software developer
 ```json
 {
   "name": "Luca Zhou",
-  "student": true,
+  "student": true
 }
 ```
 
