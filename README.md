@@ -37,10 +37,7 @@ In the previous year, I worked as a data analyst [@LBM Partner Services](https:/
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 July 2022 - To: 13 July 2022
-
-Python       39 mins         ██████████████████▒░░░░░░   73.51 %
-JavaScript   14 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
