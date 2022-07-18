@@ -2,7 +2,7 @@
 
 (he/him)
 
-Welcome to my little corner of the internet! I'm a passionate software developer interested in machine learning, algorithmic trading, and full-stack web development &mdash; anything that can make tech work better for everyone. Currently, I'm based in London, ON, and completing my honours degree in Computer Science [@uwo](https://www.uwo.ca/).
+Welcome to my little corner of the internet! I'm a passionate software developer interested in machine learning, algorithmic trading, and full-stack web development &mdash; anything that can make tech work better for everyone. Recently, I completed my honours degree in Computer Science [@uwo](https://www.uwo.ca/), and will move to Toronto in the following month.
 
 
 ```json
