@@ -1,6 +1,6 @@
 ### :wave: hey there! i'm Luca
 
-(he/him)
+(he/him/his)
 
 Welcome to my little corner of the internet! I'm a passionate software developer interested in machine learning, algorithmic trading, and full-stack web development &mdash; anything that can make tech work better for everyone. I recently completed my computer science honours degree [@uwo](https://www.uwo.ca/), and will move to Toronto in the next month.
 
