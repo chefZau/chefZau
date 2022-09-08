@@ -38,9 +38,9 @@ In the previous year, I worked as a data analyst [@LBM Partner Services](https:/
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 05 September 2022
+From: 30 August 2022 - To: 06 September 2022
 
-Other   44 hrs 41 mins  █████████████████████████   99.89 %
+Other   46 hrs 7 mins   █████████████████████████   99.89 %
 ```
 
 <!--END_SECTION:waka-->
