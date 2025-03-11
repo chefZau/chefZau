@@ -3,8 +3,6 @@
 **Data Engineer @ TD Bank** | Passionate about **big data, cloud computing, and data pipelines**  
 Toronto, ON, Canada
 
----
-
 ### 💡 About Me  
 
 I am a **data engineer** with experience in **ETL pipelines, cloud computing (Azure), and big data processing**.  
@@ -22,7 +20,7 @@ I specialize in **PySpark, SQL, Databricks, and data automation** to help busine
  .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
 ```
 
-Outside of work, I enjoy **photography 📷 (Sony A6300), weightlifting 🏋️, and cooking 🍳 Chinese cuisine**.
+Outside of work, I enjoy **photography 📷 (Sony A7RV), weightlifting 🏋️, and cooking 🍳 Chinese cuisine**.
 
 ---
 
