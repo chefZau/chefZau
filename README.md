@@ -1,8 +1,17 @@
-### :wave: hey there! i'm Luca
+### :wave: Hi, I'm Luca Zhou
 
-(he/him/his)
+**Data Engineer @ TD Bank** | Passionate about **big data, cloud computing, and data pipelines**  
+Toronto, ON, Canada
 
-Welcome to my little corner of the internet! I'm a passionate software developer interested in machine learning, algorithmic trading, and full-stack web development &mdash; anything that can make tech work better for everyone. Currently, I'm based in Mississauga, ON, and work as a data engineer associate [@TD Wealth Management](https://www.td.com/ca/en/investing/wealth/financial-planning?tdtarget=priorities&cm_sp=:GOOGLE:TD+Wealth+Management+-+Brand+-+English+(22_S_WL_WAD_AO_ACQ_ENFR):DIF:Wealth+Management+-+Exact&gclid=CjwKCAjw3qGYBhBSEiwAcnTRLurqsr5YR7hW8xJgNzTIeI_lgCpRXLgl60VYHdHArARh4WpY2h1VCxoCaXMQAvD_BwE&gclsrc=aw.ds).
+---
+
+### 💡 About Me  
+
+I am a **data engineer** with experience in **ETL pipelines, cloud computing (Azure), and big data processing**.  
+I specialize in **PySpark, SQL, Databricks, and data automation** to help businesses make data-driven decisions.  
+
+📌 Previously, I worked as a **data analyst @LBM Partner Services**, focusing on **data wrangling, visualization, and automation**.    
+
 
 ```
                                                                                 ## #
@@ -13,7 +22,17 @@ Welcome to my little corner of the internet! I'm a passionate software developer
  .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
 ```
 
-You can find me hitting the gym in my spare time, taking pictures with my Sony A6300, or practicing Chinese cuisine! I recently started a Study With Me zoom live streaming on which I plan to encourage people to keep on learning during the pandemic.
+Outside of work, I enjoy **photography 📷 (Sony A6300), weightlifting 🏋️, and cooking 🍳 Chinese cuisine**.
+
+---
+
+### 📊 My Tech Stack  
+- **Programming**: Python, SQL, Java  
+- **Data Engineering**: PySpark, Databricks, Hive, Impala, Airflow  
+- **Cloud & Infrastructure**: Azure (Data Factory, Synapse), AWS (S3, Lambda)  
+- **Visualization**: Tableau, Power BI, Matplotlib  
+
+---
 
 ### Connect with me:
 
