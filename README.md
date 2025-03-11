@@ -1,14 +1,8 @@
 ### :wave: Hi, I'm Luca Zhou
 
-**Data Engineer @ TD Bank** | Passionate about **big data, cloud computing, and data pipelines**  
-Toronto, ON, Canada
+(he/him/his)
 
-### 💡 About Me  
-
-I am a **data engineer** with experience in **ETL pipelines, cloud computing (Azure), and big data processing**.  
-I specialize in **PySpark, SQL, Databricks, and data automation** to help businesses make data-driven decisions.  
-
-📌 Previously, I worked as a **data analyst @LBM Partner Services**, focusing on **data wrangling, visualization, and automation**.    
+Welcome to my little corner of the internet! I'm a passionate developer interested in machine learning, algorithmic trading, and full-stack web development &mdash; anything that can make tech work better for everyone. Currently, I'm based in Toronto, ON, and work as a data engineer [@TD Wealth Management](https://www.td.com/ca/en/investing/wealth/financial-planning?tdtarget=priorities&cm_sp=:GOOGLE:TD+Wealth+Management+-+Brand+-+English+(22_S_WL_WAD_AO_ACQ_ENFR):DIF:Wealth+Management+-+Exact&gclid=CjwKCAjw3qGYBhBSEiwAcnTRLurqsr5YR7hW8xJgNzTIeI_lgCpRXLgl60VYHdHArARh4WpY2h1VCxoCaXMQAvD_BwE&gclsrc=aw.ds).
 
 
 ```
@@ -30,8 +24,6 @@ Outside of work, I enjoy **photography 📷 (Sony A7RV), weightlifting 🏋️, 
 - **Cloud & Infrastructure**: Azure (Data Factory, Synapse), AWS (S3, Lambda)  
 - **Visualization**: Tableau, Power BI, Matplotlib  
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -50,7 +42,7 @@ Outside of work, I enjoy **photography 📷 (Sony A7RV), weightlifting 🏋️, 
 
 ### What I'm working on
 
-In the previous year, I worked as a data analyst [@LBM Partner Services](https://lbmpartnerservices.com/), working on a mix of data wrangling, data visualization, and automation! In my spare time, I'm polishing up [BMO Mutual Fund Exploration](https://github.com/chefZau/Exploring-BMO-MFunds) and a host of other side-projects that may or may not see the light of day :)
+📌 Previously, I worked as a **data analyst @LBM Partner Services**, focusing on **data wrangling, visualization, and automation**! In my spare time, I'm polishing up [BMO Mutual Fund Exploration](https://github.com/chefZau/Exploring-BMO-MFunds) and a host of other side-projects that may or may not see the light of day :)
 
 <!--START_SECTION:waka-->
 
