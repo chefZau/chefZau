@@ -44,6 +44,8 @@ Outside of work, I enjoy **photography 📷 (Sony A7RV), weightlifting 🏋️, 
 
 📌 Previously, I worked as a **data analyst @LBM Partner Services**, focusing on **data wrangling, visualization, and automation**! In my spare time, I'm polishing up [BMO Mutual Fund Exploration](https://github.com/chefZau/Exploring-BMO-MFunds) and a host of other side-projects that may or may not see the light of day :)
 
+<figure><embed src="https://wakatime.com/share/@chefZau/9b59977d-a381-4c87-8172-bb56c2788c71.svg"></embed></figure>
+
 <!--START_SECTION:waka-->
 
 ```text
