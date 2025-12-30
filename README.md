@@ -22,10 +22,40 @@ Outside of work, I’m into photography 📷 (digital & film), weightlifting �
 
 ### 👨‍💻 Recent Roles
 
-- **Data Engineer I** — Toronto-Dominion Bank&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Aug 2023 – Present_
-- **Data Engineer Associate** — Toronto-Dominion Bank&nbsp;&nbsp;&nbsp;_Aug 2022 – Aug 2023_
-- **Data Analyst** — LBM Partner Services Inc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Sept 2020 – Apr 2022_
-- **Back-end Developer** — TRS Information Technology&nbsp;&nbsp;&nbsp;&nbsp;_Jul 2019 – Aug 2019_
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: none; padding: 6px 8px;">
+      <strong>Data Engineer I</strong> — Toronto-Dominion Bank
+    </td>
+    <td style="border: none; padding: 6px 8px; text-align: right; white-space: nowrap;">
+      <em>Aug 2023 – Present</em>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 6px 8px;">
+      <strong>Data Engineer Associate</strong> — Toronto-Dominion Bank
+    </td>
+    <td style="border: none; padding: 6px 8px; text-align: right; white-space: nowrap;">
+      <em>Aug 2022 – Aug 2023</em>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 6px 8px;">
+      <strong>Data Analyst</strong> — LBM Partner Services Inc.
+    </td>
+    <td style="border: none; padding: 6px 8px; text-align: right; white-space: nowrap;">
+      <em>Sept 2020 – Apr 2022</em>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: none; padding: 6px 8px;">
+      <strong>Back-end Developer</strong> — TRS Information Technology
+    </td>
+    <td style="border: none; padding: 6px 8px; text-align: right; white-space: nowrap;">
+      <em>Jul 2019 – Aug 2019</em>
+    </td>
+  </tr>
+</table>
 
 ### Connect with me:
 
