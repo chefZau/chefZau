@@ -20,11 +20,12 @@ Outside of work, I’m into photography 📷 (digital & film), weightlifting �
 
 ---
 
-### 📊 My Tech Stack
-- **Programming**: Python, SQL, Java
-- **Data Engineering**: PySpark, Databricks, Hive, Impala, Airflow
-- **Cloud & Infrastructure**: Azure (Data Factory, Synapse), AWS (S3, Lambda)
-- **Visualization**: Tableau, Power BI, Matplotlib
+### 👨‍💻 Recent Roles
+
+- **Data Engineer I** — Toronto-Dominion Bank              _Aug 2023 – Present_
+- **Data Engineer Associate** — Toronto-Dominion Bank     _Aug 2022 – Aug 2023_
+- **Data Analyst** — LBM Partner Services Inc.             _Sept 2020 – Apr 2022_
+- **Back-end Developer** — TRS Information Technology      _Jul 2019 – Aug 2019_
 
 ### Connect with me:
 
