@@ -22,40 +22,12 @@ Outside of work, I’m into photography 📷 (digital & film), weightlifting �
 
 ### 👨‍💻 Recent Roles
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td style="border: none; padding: 6px 8px;">
-      <strong>Data Engineer I</strong> — Toronto-Dominion Bank
-    </td>
-    <td style="border: none; padding: 6px 8px; text-align: right; white-space: nowrap;">
-      <em>Aug 2023 – Present</em>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 6px 8px;">
-      <strong>Data Engineer Associate</strong> — Toronto-Dominion Bank
-    </td>
-    <td style="border: none; padding: 6px 8px; text-align: right; white-space: nowrap;">
-      <em>Aug 2022 – Aug 2023</em>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 6px 8px;">
-      <strong>Data Analyst</strong> — LBM Partner Services Inc.
-    </td>
-    <td style="border: none; padding: 6px 8px; text-align: right; white-space: nowrap;">
-      <em>Sept 2020 – Apr 2022</em>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 6px 8px;">
-      <strong>Back-end Developer</strong> — TRS Information Technology
-    </td>
-    <td style="border: none; padding: 6px 8px; text-align: right; white-space: nowrap;">
-      <em>Jul 2019 – Aug 2019</em>
-    </td>
-  </tr>
-</table>
+<pre>
+Data Engineer I           — Toronto-Dominion Bank        Aug 2023 – Present
+Data Engineer Associate   — Toronto-Dominion Bank        Aug 2022 – Aug 2023
+Data Analyst              — LBM Partner Services Inc.    Sept 2020 – Apr 2022
+Back-end Developer        — TRS Information Technology   Jul 2019 – Aug 2019
+</pre>
 
 ### Connect with me:
 
